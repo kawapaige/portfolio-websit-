@@ -1,2 +1,2 @@
-# portfolio websit 
+# portfolio website
  Portfolio for CDM projects 
